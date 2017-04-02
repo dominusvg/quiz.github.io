@@ -1,2 +1,9 @@
-# quiz.github.io
-a quiz website designed for a competitive environment
+<html>
+<head>
+<title>QUIZMASTER</title>
+</head>
+<body>
+<h1>QUIZMASTER</h1>
+<p>Ultimate quizing website</p>
+</body>
+</html>
